@@ -1,0 +1,54 @@
+body {
+    background: linen;
+    font-family: Helvetica;
+}
+
+div {
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    display: block;
+
+}
+
+h1 {
+    font-size: 90px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 70px;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 50px;
+    color: navy;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+form {
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+th {
+    background-color: red;
+}
+
+table a{
+    color: pink
+}
+
